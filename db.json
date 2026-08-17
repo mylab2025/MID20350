@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "FM Transmitter Module 87-108Mhz Stereo ",
+        "PN": "DSP PLL ",
+        "MF": "NA"
+      },
+      "MID": "MID20350",
+      "MD": "DSP PLL 87-108Mhz Stereo FM Transmitter Module Digital LCD Display Wireless Microphone Board Multi-function Frequency Modulation.\r\nWith automatic station search and store radio features, easy to operate and use.\r\nBuilt-in 30 digital volume adjustments, the key operation can be easily completed.\r\nAutomatic power-down data memory before the power failure.\r\nSpeaker/headphone output automatic switching\r\nSupports serial AT commands.\r\nQuartz crystal frequency stabilization, the temperature change is no longer transmitting frequency drift.\r\nAuto search for the full-band signal has a frequency band and stores memories.\r\nYou can set the threshold processing DSP digital squelch, no signal automatically muted, away from the traditional FM radio irritability rustle (requires the user to open the static noise function module).",
+      "MT": "Design/Module",
+      "MQNT": 0,
+      "MCost": 899.0,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://robu.in/product/dsp-pll-87-108mhz-stereo-fm-transmitter-module-digital-lcd-display-wireless-microphone-board-multi-function-frequency-modulation/",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "https://rcl.lt/en/products/abrm33-fm-stereo-transmitter-pll-87-108mhz?utm_source=chatgpt.com",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20350/main/Screenshot 2026-08-17 181748.png"
+      ]
+    }
+  ]
+}
