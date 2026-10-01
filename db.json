@@ -9,7 +9,7 @@
       "MID": "MID20350",
       "MD": "DSP PLL 87-108Mhz Stereo FM Transmitter Module Digital LCD Display Wireless Microphone Board Multi-function Frequency Modulation.\r\nWith automatic station search and store radio features, easy to operate and use.\r\nBuilt-in 30 digital volume adjustments, the key operation can be easily completed.\r\nAutomatic power-down data memory before the power failure.\r\nSpeaker/headphone output automatic switching\r\nSupports serial AT commands.\r\nQuartz crystal frequency stabilization, the temperature change is no longer transmitting frequency drift.\r\nAuto search for the full-band signal has a frequency band and stores memories.\r\nYou can set the threshold processing DSP digital squelch, no signal automatically muted, away from the traditional FM radio irritability rustle (requires the user to open the static noise function module).",
       "MT": "Design/Module",
-      "MQNT": 0,
+      "MQNT": 1,
       "MCost": 899.0,
       "MQATG": "#CLASS_0",
       "ML": "",
